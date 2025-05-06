@@ -27,26 +27,26 @@ Este é o desafio do challeger da Alura ONE de um projeto de conversor de moedas
 ---
 ## Exemplo
 
-# *******************
-# Por favor digite seu nome: 
-# ANA
-# *******************
+*******************
+Por favor digite seu nome: 
+ANA
+*******************
 
-# **** Olá ANA , Seja bem-vindo(a)! ****
+**** Olá ANA , Seja bem-vindo(a)! ****
 
-# *******************
-# Escolha a moeda de origem para conversão: (BRL, USD, EUR)
-# BRL
+*******************
+Escolha a moeda de origem para conversão: (BRL, USD, EUR)
+BRL
 
-# *******************
-# Digite o valor: 
-# 100
+*******************
+Digite o valor: 
+100
 
-# *******************
-# Digite a moeda de destino (ex: BRL, USD, EUR, JPY): 
-# USD
-# *******************
-# Valor convertido: 100.00 BRL = 19.40 USD
+*******************
+Digite a moeda de destino (ex: BRL, USD, EUR, JPY): 
+USD
+*******************
+Valor convertido: 100.00 BRL = 19.40 USD
 
-# *******************
-# Digite 1 para converter novamente ou 2 para sair:
+*******************
+Digite 1 para converter novamente ou 2 para sair:
